@@ -4,4 +4,6 @@ package test;
 //abc
 public class T {
 
+	private String var;
+	
 }
