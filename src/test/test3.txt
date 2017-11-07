@@ -1,6 +1,2 @@
 git测试3,master新增文件测试!!!
-<<<<<<< HEAD
-123456
-=======
-abc
->>>>>>> branch 'master' of https://github.com/haifei123/hello-world.git
+123456abc
